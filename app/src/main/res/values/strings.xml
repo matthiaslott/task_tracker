@@ -1,0 +1,28 @@
+<resources>
+    <!-- Navigation -->
+    <string name="app_name">Task Tracker</string>
+    <string name="archive">Archive</string>
+    <string name="settings">Settings</string>
+
+    <string name="cancel">Cancel</string>
+    <!-- TaskConfigurationScreen  -->
+    <string name="add_task">Add Task</string>
+    <string name="modify_task">Modify Task</string>
+    <string name="ok">OK</string>
+    <string name="create_task">Create Task</string>
+    <string name="save_task">Save Task</string>
+    <!-- TaskConfigurationScreen TextFields -->
+    <string name="char_limit">At most %1$d characters</string>
+    <string name="task_type">Type</string>
+    <string name="task_date">Due Date</string>
+    <string name="task_title">Title</string>
+    <string name="task_description">Description</string>
+    <!-- Settings -->
+    <string name="export_config">Export Configuration</string>
+    <string name="import_config">Import Configuration</string>
+    <string name="config">Configuration</string>
+    <string name="invalid_json">Invalid Json</string>
+    <string name="load">Load</string>
+    <string name="click_count">Tap \'%1$s\' %2$d more time(s) to confirm.</string>
+    <string name="delete_hint">To reset the app, simply go to the settings and clear the storage</string>
+</resources>
